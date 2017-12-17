@@ -14,3 +14,8 @@ body{
 h1{
     font-family: 'Raleway', sans-serif;
 }
+#logo{
+margin-right:20px;
+margin-left:20px;
+    Width:auto;
+}
